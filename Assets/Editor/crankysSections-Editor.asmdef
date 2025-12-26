@@ -1,0 +1,10 @@
+{
+  "name": "crankysSections-Editor",
+  "references": [
+    "crankysSections"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
